@@ -1,1 +1,1 @@
-Git is good
+Git is bad
